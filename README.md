@@ -11,6 +11,7 @@ Application of Knowledge: People can use our findings to help plan when they wil
 
 Video Demonstration Link:
 https://youtu.be/RS0HumXZJto
+  #could not put video file onto github repo due to file size restrictions
 
 Link to Final Report:
 https://github.com/davidnyberg/DM_Project/blob/master/28_TrafficRelations_Part4.pdf
