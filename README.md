@@ -10,8 +10,11 @@ Summary of questions: We wanted to know whether factors such as the season of th
 Application of Knowledge: People can use our findings to help plan when they will and won't drive due to the high or low volume of traffic at certain times. This data can also be used in construction to help determine which seasons would be best for doing the bulk of projects which may potentially shut down road lanes.
 
 Video Demonstration Link:
+https://youtu.be/RS0HumXZJto
 
-Link to Final Paper:https://github.com/davidnyberg/DM_Project/blob/master/28_TrafficRelations_Part4.pdf
+Link to Final Report:
+https://github.com/davidnyberg/DM_Project/blob/master/28_TrafficRelations_Part4.pdf
 
 
-link to overleaf document: https://www.overleaf.com/14347102bxyskgdmbvgw#/55214223/
+Link to Overleaf of Final Report: 
+https://www.overleaf.com/14347102bxyskgdmbvgw#/55214223/
